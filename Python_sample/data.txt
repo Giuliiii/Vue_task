@@ -1,5 +1,0 @@
-point: 3 comentario: Muy regular
-point: 5 comentario: No bad
-point: 1 comentario: Fake
-point: 3 comentario: 0
-point: 5 comentario: I thinks that´s all
